@@ -8,7 +8,7 @@ This website serves as the central hub for event details, online registration, a
 
 ## 🎯 Website Overview
 
-The **Infonix 2.0** website is designed with a **modern, minimal, and elegant theme** inspired by [Nexora-25](https://nexora-25.netlify.app).  
+The **Infonix 2.0** website is designed with a **modern, minimal, and elegant theme**.  
 It combines simplicity and tech aesthetics — giving participants a smooth, engaging, and informative experience.
 
 ### 🔗 Live Website  
